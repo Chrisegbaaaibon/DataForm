@@ -1,0 +1,19 @@
+{
+  "name": "dataform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghostcod3r",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrisegbaaaibon/DataForm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chrisegbaaaibon/DataForm/issues"
+  },
+  "homepage": "https://github.com/Chrisegbaaaibon/DataForm#readme",
+  "description": ""
+}
